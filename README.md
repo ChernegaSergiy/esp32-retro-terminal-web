@@ -36,7 +36,9 @@ The UI is designed with a specific "Cyberpunk/Linux" console aesthetic:
    ```
 2. **Open the project** in Arduino IDE or PlatformIO.
 3. **Upload** the code to your ESP32.
-   - *Note: You do not need to hardcode Wi-Fi credentials in the code anymore.*
+
+> [!NOTE]
+> You do not need to hardcode Wi-Fi credentials in the code anymore.
 
 ## Network Configuration
 
