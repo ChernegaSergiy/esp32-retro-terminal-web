@@ -1,7 +1,7 @@
 # ESP32 Retro Terminal Web Interface
 
-![License](https://img.shields.io/badge/license-CSSM--ULv2-green)
-![Platform](https://img.shields.io/badge/platform-ESP32-blue)
+[![License: CSSM Unlimited License v2.0](https://img.shields.io/badge/License-CSSM%20Unlimited%20License%20v2.0-blue.svg?logo=opensourceinitiative)](LICENSE)
+[![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-E7352C.svg?logo=espressif)](https://www.espressif.com/)
 
 This project implements a lightweight web server for the ESP32 microcontroller featuring a stylized **Unix-like TUI (Text User Interface)**. It allows users to control GPIO pins and configure Wi-Fi credentials via a web browser while mimicking the aesthetic of a CRT monitor running a Linux terminal.
 
