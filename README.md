@@ -13,7 +13,7 @@ The UI is designed with a specific "Cyberpunk/Linux" console aesthetic:
 - **Elements:** Simulated Unix prompts (`root@esp32:~#`), `htop`-style status reporting, and `vi`-style configuration forms.
 - **Dynamic Data:** Real-time RSSI scanning (`iwlist`) and system uptime monitoring.
 
-> **Note:** [Insert a screenshot of your web interface here]
+![ESP32 Web Interface Preview](preview.png)
 
 ## Features
 
