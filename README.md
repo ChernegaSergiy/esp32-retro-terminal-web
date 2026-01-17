@@ -8,6 +8,7 @@ This project implements a lightweight web server for the ESP32 microcontroller f
 ## Interface Preview
 
 The UI is designed with a specific "Cyberpunk/Linux" console aesthetic:
+
 - **Visual Style:** CRT scanline effects, glowing text, and high-contrast Green (#00FF00) on Black.
 - **Elements:** Simulated Unix prompts (`root@esp32:~#`), `htop`-style status reporting, and `vi`-style configuration forms.
 - **Dynamic Data:** Real-time RSSI scanning (`iwlist`) and system uptime monitoring.
@@ -28,7 +29,9 @@ The UI is designed with a specific "Cyberpunk/Linux" console aesthetic:
 - Built-in LED (GPIO 2) or external LED.
 - BOOT Button (GPIO 0) for resetting network settings.
 
-## Installation and Usage
+## Installation
+
+To deploy the terminal uplink and initialize the system, proceed with the following sequence:
 
 1. Clone the repository:
    ```bash
