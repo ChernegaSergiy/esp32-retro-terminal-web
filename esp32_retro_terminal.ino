@@ -23,7 +23,7 @@ bool ap_mode = false;
 /* --- UTILS (Kernel Logs) --- */
 
 void klog(const char* module, const char* msg) {
-    // Формат: [TIMESTAMP] module: message
+    // // Format: [TIMESTAMP] module: message
     Serial.printf("[%6lu.%03lu] %s: %s\n", millis() / 1000, millis() % 1000, module, msg);
 }
 
