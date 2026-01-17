@@ -3,9 +3,9 @@
 #include <Preferences.h>
 
 /* --- KERNEL CONFIG --- */
-#define LED_PIN         2      // GPIO для світлодіода
-#define BUTTON_PIN      0      // GPIO для кнопки (BOOT)
-#define LONG_PRESS_MS   3000   // Час утримання для скидання
+#define LED_PIN         2      // GPIO for LED
+#define BUTTON_PIN      0      // GPIO for BOOT button
+#define LONG_PRESS_MS   3000   // Hold time for reset
 #define AP_SSID         "esp32_tty"
 #define AP_PASS         "root1234"
 
