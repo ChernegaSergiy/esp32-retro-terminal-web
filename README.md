@@ -47,9 +47,9 @@ To deploy the terminal uplink and initialize the system, proceed with the follow
 
 Upon the first launch (or if no Wi-Fi is configured), the device acts as a Hotspot:
 
-1. Connect your phone/PC to the Wi-Fi network: **`esp32_tty`**.
-2. Password: **`root1234`**.
-3. Open a browser and navigate to **`192.168.4.1`**.
+1. Connect your phone/PC to the Wi-Fi network: `esp32_tty`.
+2. Password: `root1234`.
+3. Open a browser and navigate to `192.168.4.1`.
 4. You will see a simulated `iwlist` scan of available networks.
 5. Enter your SSID and Password in the `vi`-style prompts and click `[ :wq! ]`.
 6. The device will reboot and connect to your local network.
