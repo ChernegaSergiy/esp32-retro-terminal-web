@@ -30,12 +30,12 @@ The UI is designed with a specific "Cyberpunk/Linux" console aesthetic:
 
 ## Installation and Usage
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/ChernegaSergiy/esp32-retro-terminal-web.git
    ```
-2. **Open the project** in Arduino IDE or PlatformIO.
-3. **Upload** the code to your ESP32.
+2. Open the project in Arduino IDE or PlatformIO.
+3. Upload the code to your ESP32.
 
 > [!NOTE]
 > You do not need to hardcode Wi-Fi credentials in the code anymore.
